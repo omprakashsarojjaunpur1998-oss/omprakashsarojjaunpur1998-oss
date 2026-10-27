@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Omprakash Saroj 👋
 
-<!--
-**omprakashsarojjaunpur1998-oss/omprakashsarojjaunpur1998-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Full Stack Developer | Founder - Shri Ram Enterprises**
 
-Here are some ideas to get you started:
+> Bharose Ka Pratik | Jaunpur, UP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **DentCare Project & Java Full Stack**
+- 🌱 I’m currently learning: **Spring Boot, React.js, DSA**
+- 👨‍🏫 I teach: **Java, English & Maths Online**
+- 📫 How to reach me: **omprakashsarojjaunpur1998@gmail.com**
+
+### 🛠️ My Tech Stack
+`Java` `Spring Boot` `MySQL` `JavaScript` `React` `HTML` `CSS` `Git` `GitHub`
+
+### 🚀 My Projects
+- **DentCare** - My first JavaScript project
+
+---
+⭐ Thanks for visiting my profile! Let's connect and grow together.
